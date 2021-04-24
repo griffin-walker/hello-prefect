@@ -1,0 +1,7 @@
+name: prefect-example
+dependencies:
+  - pip
+  - scikit-learn
+  - pandas
+  - pip:
+    - prefect
