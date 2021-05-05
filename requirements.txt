@@ -1,0 +1,4 @@
+pytest
+prefect
+scikit-learn
+pandas
